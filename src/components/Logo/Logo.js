@@ -1,6 +1,6 @@
 import React from 'react';
 import Tilt from 'react-tilt';
-import soybean from './soybean.png'
+//import soybean from './soybean.png'
 import red from './red.png'
 import './Logo.css'
 
